@@ -1,0 +1,10 @@
+tahapan membangun database yang baik adalah 
+1. menentukan tujuan pembuatan database
+2.menentukan tabel yang diperlukan
+3. menentukan field yang dibutuhkan dalam setiap tabel
+4. menentukan tabel yan akan digunakan secara bersama sama
+5. mengidentifikasi field yang akan menjadi kunci
+6. menentukan hubungan relasi anatara tabel
+7. mengecek ulang design database yang sudah dibuat
+8. memasukkan data statis kedalam table
+9. menciptakan object database lainnya
