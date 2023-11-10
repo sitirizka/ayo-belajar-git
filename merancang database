@@ -1,0 +1,6 @@
+dalam merancang dan membangun database  ada 5 aturan dasar
+1. tidak boleh terjadi retundancy
+2. ada field yang bersifat unik
+3. setiap tabel harus normal
+4. ukuran database hendaknya dibuat seminimal mungkin
+5. rancangan dapat menampung data sesuai kebutuhan
